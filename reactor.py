@@ -61,7 +61,6 @@ class simulator:
             time.sleep(self.model_inverval)
 
     def actually_on_press(self, key):
-        print("got a press")
         # exit if it's crtl + c
         if key.char == "\x03":
             sys.exit()
