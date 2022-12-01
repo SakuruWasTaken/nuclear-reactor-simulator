@@ -1,0 +1,11 @@
+C:\Users\Charlie\source\repos\Reactor\Reactor\bin\Debug\Reactor.exe.config
+C:\Users\Charlie\source\repos\Reactor\Reactor\bin\Debug\Reactor.exe
+C:\Users\Charlie\source\repos\Reactor\Reactor\bin\Debug\Reactor.pdb
+C:\Users\Charlie\source\repos\Reactor\Reactor\obj\Debug\Reactor.csproj.AssemblyReference.cache
+C:\Users\Charlie\source\repos\Reactor\Reactor\obj\Debug\Reactor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Charlie\source\repos\Reactor\Reactor\obj\Debug\Reactor.Form1.resources
+C:\Users\Charlie\source\repos\Reactor\Reactor\obj\Debug\Reactor.Properties.Resources.resources
+C:\Users\Charlie\source\repos\Reactor\Reactor\obj\Debug\Reactor.csproj.GenerateResource.cache
+C:\Users\Charlie\source\repos\Reactor\Reactor\obj\Debug\Reactor.csproj.CoreCompileInputs.cache
+C:\Users\Charlie\source\repos\Reactor\Reactor\obj\Debug\Reactor.exe
+C:\Users\Charlie\source\repos\Reactor\Reactor\obj\Debug\Reactor.pdb
